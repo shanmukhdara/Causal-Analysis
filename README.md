@@ -1,6 +1,6 @@
 # Causal-Analysis
 
-1. **Graphical Causal Models** : <br>
+1. **Graphical Causal Models using DAGs** : <br>
    To understand more on what DAGs are and how are they useful in causal inference - https://shanmukhdara.medium.com/controls-and-their-interpretation-723d19411794 <br>
    R code in the file "Graphical Causal Models.R" explains Pipeline, Collider and Fork using examples
 
