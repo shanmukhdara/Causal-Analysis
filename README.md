@@ -10,6 +10,7 @@
    R code in file "Viz_DAG_ggdag.R" shows ways to Vizualize DAGs in R using ggdag package
    
 3. **DAGs testing** : <br>
-   But what if you're creating a DAG for the first time? How will you know if it's correct?
+   But what if you're creating a DAG for the first time? How will you know if it's correct? <br>
+   DAG are always constructed based on theory, we use data just to make sure if the DAG is compatable with observed data or not <br>
    R code in file "DAG testing.R" helps you in validating this
    
