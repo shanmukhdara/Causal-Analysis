@@ -11,6 +11,6 @@
    
 3. **DAGs testing** : <br>
    But what if you're creating a DAG for the first time? How will you know if it's correct? <br>
-   DAG are always constructed based on theory, we use data just to make sure if the DAG is compatable with observed data or not <br>
+   DAG are always constructed based on theory, we use data just to make sure if the DAG is compatable with observed data or not. If DAG is nto compatable with data just go throught the underlying theory once again to see if we have missed something <br>
    R code in file "DAG testing.R" helps you in validating this
    
